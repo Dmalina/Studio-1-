@@ -14,5 +14,5 @@ public class Average {
 		double n3 = ((n1 + n2)/2);
 		System.out.println("Your average is: " + n3);
 	}
-
+//
 }
